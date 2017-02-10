@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		<nav>
+			<ul>
+			<a href="#">Home</a>
+			<a href="#">Resume</a>
+			<a href="#">Contact Me</a>
+			</ul>
+		</nav>
+			<body>
+			<h2>Chris Busch - Front End Web Developer</h2>
+			<p>Here is a little about me.  My first computer was a Tandy TRS 80</p>
+			</body>
+		</head>
+	</html>	

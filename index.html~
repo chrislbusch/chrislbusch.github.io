@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet"> 
+			<link rel="stylesheet" type="text/css" href="main.css">
+		<nav div id="menu">
+			<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Resume</a></li>
+			<li><a href="#">Contact Me</a></li>
+			<li><a href="#">Artistic Photos</a></li>
+			</ul>
+		</nav>
+		<h2>Chris Busch - Web Developer </h2>
+			<body div id="body">
+			<article>
+			<section class="history">
+				<h4>A Short History</h4>
+				<div>Here is a little about me.  My first computer was a Tandy TRS 80 &reg, and I loved to play Dungeons of Daggorath &reg.  I finally received 
+				my first computer when I around 22, I built it with spare parts I acquired from people I knew.  It was a 486dx with 4mb memory running Windows 3.1.
+				 From there I went up the OS chain and have ran every version of Windows &reg desktop version.</div>
+			</section>
+			<section class="goals">
+				<h4>My Goals</h4>
+				<ul>
+					<li>Become a Web Developer</li>
+					<li>Learn better layouts with CSS</li>
+					<li>Learn frameworks</li>
+					<li>Start a career as a Web Developer</li>
+					<li>Improve my short game in golf</li>
+					<li>Watch the Atlanta Falcons win the Super Bowl</li>
+				</ul>
+			</section>			
+			</article>
+			</body>
+		</head>
+	</html>	

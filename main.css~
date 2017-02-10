@@ -1,0 +1,40 @@
+#menu {
+	text-align:center;
+	background-color:#698B69;
+	border-radius: 25px;
+	max-width: 100%;
+	margin: 10px 30% 10px 30%;
+}
+
+
+#menu ul {list-style-type: none;}
+
+
+#menu li {
+	font-family: 'Handlee', cursive, monospace;
+	display: inline-block;
+	text-align:center;
+	padding: 10px 60px 10px 60px;
+
+}
+
+
+#menu a {
+	text-decoration: none;
+	}
+	
+	
+#body {
+font-family: 'Handlee', cursive, monospace;
+background-color: #C1CDC1;
+
+}
+h2  {
+	text-align: center;
+}
+
+.history, .goals {
+   float:left;
+   max-width: 50%;
+   padding:  5%;
+   }
